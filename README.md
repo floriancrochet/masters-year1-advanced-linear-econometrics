@@ -116,9 +116,12 @@ This project is released under the **MIT License**.
 
 ## 👤 Authors
 **Pierre QUINTIN DE KERCADIO**  
+🔗 [LinkedIn](https://www.linkedin.com/in/pierre-quintin-de-kercadio/)  
+
 **Florian CROCHET**  
+🔗 [LinkedIn](https://www.linkedin.com/in/floriancrochet/)  
+
 *Master 1 – Econometrics & Statistics, Applied Econometrics Track*  
-> À compléter : contact email, LinkedIn, or institutional affiliation.
 
 ---
 
