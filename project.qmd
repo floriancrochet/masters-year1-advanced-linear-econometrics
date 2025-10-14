@@ -46,7 +46,7 @@ library(AER)
 Importation de la base sous R sous le nom Budget_Pierre_Florian, sauvegarde sous Budget.rda
 
 ```{r}
-Budget <- read.xlsx("data/budget.xlsx")
+Budget <- read.xlsx("data/student_budget_data_2023_2024.xlsx")
 
 save(Budget, file="Budget.rda")
 
